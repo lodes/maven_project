@@ -13,6 +13,7 @@ public class HelloWorld {
         System.out.println("eclipse新加输出1");
         System.out.println("idea新加输出1");
         System.out.println("eclipse 输出2");
+        System.out.println("elcipse 输出4");
     }
 
 }
