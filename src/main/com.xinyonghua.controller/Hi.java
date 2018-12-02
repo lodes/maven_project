@@ -10,6 +10,7 @@ public class HelloWorld {
         System.out.println("idea 新分支1");
         System.out.println("eclipse 新分支1");
         System.out.println("eclipse 新分支2");
+        System.out.println("idea 新分支2");
     }
 
 }
