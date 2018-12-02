@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println(eclipse 2);
         System.out.println("idea 2");
         System.out.println("idea 新分支1");
+        System.out.println("idea 新分支2");
     }
 
 }
