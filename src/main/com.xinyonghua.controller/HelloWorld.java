@@ -16,6 +16,7 @@ public class HelloWorld {
         System.out.println("idea 输出5");
         System.out.println("elcipse 输出4");
         System.out.println("idea 输出6");
+        System.out.println("idea 输出7");
     }
 
 }
